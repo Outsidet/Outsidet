@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Outsidet/Outsidet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Outsidet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Outsidet&show_icons=true&count_private=true&hide=prs&theme=default)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Outsidet&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?color=165DFF&size=21&center=true&lines=console.log(%22Hello%2C%20World!%22)" alt="typing-svg">
+</p>
+
+
+<div align="center">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Outsidet" />  
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Outsidet&layout=compact&langs_count=8" />
+</div>
+
+<div align="center">
+<span>&emsp;&emsp;</span>
+<span>&emsp;&emsp;</span>
+</div>
